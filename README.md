@@ -1,2 +1,2 @@
 # School_Managment_System
-an application to manage student enrollment and balance.
+an application to manage student enrollments and balance.
