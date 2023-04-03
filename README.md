@@ -1,4 +1,4 @@
-# School_Managment_System
+# Student_Managment_System
 Scenario:- Database administration system for university that manage student enrollments and balance.
 
 This application do the following
